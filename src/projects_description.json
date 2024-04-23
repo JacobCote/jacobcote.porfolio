@@ -1,35 +1,35 @@
 {
     "projet1" : {
-        "name" : "projet1",
-        "description" : "projet1 description",
+        "name" : "Instafacts",
+        "description" : "Python script that generates a random fact about a random animals and creates an instagram reels using llms and MoviePy and automatically uploads them using instagram's API.",
         "github" : "https://github.com/JacobCote/instafacts",
         "path" : "./assets/projet1.png"
         },
 
     "projet2" : {
-        "name" : "projet2",
-        "description" : "projet2 description",
-        "github" : "https://github.com/JacobCote/instafacts",
+        "name" : "N-body problem simulation",
+        "description" : "Approximation of the N-body problem's numeric solution using rust.",
+        "github" : "https://github.com/JacobCote/tree_body",
         "path" : "./assets/projet2.png"
         },
 
     "projet3" : {
-        "name" : "projet2",
-        "description" : "projet2 description",
-        "github" : "projet2github.com",
+        "name" : "Dash++",
+        "description" : "Fast ClI tool to get ovelapping segments. Moslty to be used in population's genetic analysis.",
+        "github" : "https://github.com/JacobCote/tree_body",
         "path" : "./assets/projet3.png"
         },
     "projet4" : {
-        "name" : "projet2",
-        "description" : "projet2 description",
-        "github" : "projet2github.com",
+        "name" : "Gym Buddy",
+        "description" : "Flutter app that helps you keep track of your workouts and your progress. Gym Buddy also lets you share your progress with your friends.",
+        "github" : "https://github.com/JacobCote/gym_body",
         "path" : "./assets/projet4.png"
         },
 
         "projet5" : {
-            "name" : "projet5",
-            "description" : "projet1 description",
-            "github" : "projet1github.com",
+            "name" : "IstaNews",
+            "description" : "Python sofware to generate news from web sources and create an instagram reels using finetunes tts models and llms. Automatically creates instagram reels and uploads them using instagram's API.",
+            "github" : "https://github.com/JacobCote/instanews",
             "path" : "./assets/projet5.png"
             }
     
