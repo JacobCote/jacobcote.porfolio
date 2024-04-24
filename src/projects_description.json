@@ -27,7 +27,7 @@
         },
 
         "projet5" : {
-            "name" : "IstaNews",
+            "name" : "InstaNews",
             "description" : "Python sofware to generate news from web sources and create an instagram reels using finetunes tts models and llms. Automatically creates instagram reels and uploads them using instagram's API.",
             "github" : "https://github.com/JacobCote/instanews",
             "path" : "./assets/projet5.png"
