@@ -5,9 +5,9 @@
 <Navbar  >
     <NavBrand href="/">
       
-      <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Jacob's Projects</span>
+      <span class="  self-center whitespace-nowrap text-xl font-semibold dark:text-white">Jacob's Projects</span>
     </NavBrand>
-    <NavHamburger  />
+    <NavHamburger class=" bg-white "  />
     <NavUl >
       <NavLi href="/about">About Me</NavLi>
       
